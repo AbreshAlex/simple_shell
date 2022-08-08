@@ -1,7 +1,7 @@
 #include "simple_shell.h"
 
 /**
- * print_env - print the environment variable
+ * print_env - print the environ ment variable
  * @environ: environment variable
  *
  * Return: 2
